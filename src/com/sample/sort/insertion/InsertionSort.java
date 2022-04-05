@@ -60,7 +60,7 @@ public class InsertionSort {
                 position--;
             }
             
-            // 반복작업이 완려되면 현재 position 위치에 key값을 삽입한다.
+            // 반복작업이 완료되면 현재 position 위치에 key값을 삽입한다.
             arr[position] = key;
             
         }
