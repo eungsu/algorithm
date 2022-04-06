@@ -12,10 +12,7 @@
 - Insertion Sort
   - 정수 10개를 정렬하는데 평균 22회의 연산이 필요했다.
 - Quick Sort
-
-- Shell Sort
-- Merge Sort
-- Heap Sort
+  - 위에 제시된 정렬 알고리즘 중에서 일반적으로 성능이 가장 우수한 것으로 알려져있다.
 
 ## 정렬 알고리즘의 구분
 
